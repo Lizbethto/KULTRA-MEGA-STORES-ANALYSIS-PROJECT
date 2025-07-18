@@ -24,7 +24,7 @@ The dataset contains:
 - **Bottom Regions**: Nunavut, Northwest Territories, Yukon
 - Recommendation: Target underperforming regions with regional campaigns or partnerships.
 ###  Q3: Appliance Sales in Ontario
-- Total sales of appliances in Ontario = ₹[insert total here]
+- Total sales of appliances in Ontario = ₦202,346.84
 - Indicates decent demand; potential for bundling or upselling appliances in this region.
 ###  Q4: Bottom 10 Customers
 - Identified 10 customers with the lowest sales.
@@ -36,13 +36,13 @@ The dataset contains:
 - Customers like **Barry French** and **Clay Rozendal** were top spenders.
 - Most purchases were in **Office Supplies** and **Technology**.
 ###  Q7: Top Small Business Customer
-- [Insert customer name] contributed the most sales in this segment.
+- Christopher Martinez contributed the most sales in this segment.
 - Consider them for loyalty or affiliate programs.
 ###  Q8: Most Orders by Corporate Customers (2009–2012)
-- [Insert customer name] placed the most orders.
+- Jim Epp placed the most orders.
 - Indicates strong engagement from corporate segment.
 ###  Q9: Most Profitable Consumer Customer
-- [Insert name] was the most profitable individual.
+- Tonja Turnell was the most profitable individual.
 - Retention and rewards programs could sustain this profitability.
 ###  Q10: Returned Items
 - The dataset does **not contain return information**.
